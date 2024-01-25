@@ -1,6 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=b8d3ff&height=200&section=header&text=Hello_World!&fontSize=50&animation=fadeIn&fontColor=a9c1e8)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=b8d3ff&height=200&section=header&text=Hello_yippeeee!&fontSize=50&animation=fadeIn&fontColor=a9c1e8)
 
 ![py](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tbh_yippee.jpg/320px-Tbh_yippee.jpg)
+
+
+                ii
+                ii
+                ii
+                II
+                ii
+                ii
+                ii
+                ii
+                ii
+                ii
+                ii
+                ii
+                !!
+            \   !!   /
+             \  ii  / 
+              \ II /  
+               \  /
+                \/
+<br><br><br><br><br><br><br>
 
 ![py](https://i1.sndcdn.com/avatars-uDKED9pljKRDriUQ-hcGSKw-t240x240.jpg)
 
@@ -13,7 +34,7 @@
 
 ### Hi there 👋
 
-> 내가 좋아하는 음식<br>
+> yippeeee가 좋아하는 음식<br>
  <ol>
 <li>🍕</li>
 <li>🍔</li>
